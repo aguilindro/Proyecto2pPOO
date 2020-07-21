@@ -1,0 +1,16 @@
+2020-02-02,8,Pepito Ramirez,008,Kevin Guilindro,5.34
+2020-02-02,6,Diego Silva,006,Julio Cesar,13.72
+2020-02-03,8,Pepito Ramirez,008,Kevin Guilindro,9.14
+2020-02-03,2,Pepito Ramirez,002,Marcelo Perez,33.14
+2020-02-03,4,Ramon Headshot,004,55 e3,16.6
+2020-02-03,3,Ramon Headshot,003,Rocio Mera,16.6
+2020-02-03,3,Ramon Headshot,003,Rocio Mera,1.57
+2020-02-04,99,Ramon Headshot,0099,asdfgh sdfgh,24.0
+2020-02-04,3,Ramon Headshot,003,Rocio Mera,10.65
+2020-02-04,3,Ramon Headshot,003,asdfgh asdfgh,10.75
+2020-02-04,3,Ramon Headshot,003,Rocio Mera,9.62
+2020-02-05,1,Ramon Headshot,001,4 4,33.2
+2020-02-05,3,Ramon Headshot,003,Rocio Mera,20.75
+2020-02-05,7,Ramon Headshot,007,Marco Tulio,10.58
+2020-02-05,3,Ramon Headshot,003,Rocio Mera,8.24
+2020-02-05,3,Pepito Ramirez,003,Maria Paola,8.36
